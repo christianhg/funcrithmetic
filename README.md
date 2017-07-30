@@ -1,6 +1,7 @@
 # funcrithmetic
 
 [![npm module](https://badge.fury.io/js/funcrithmetic.svg)](https://www.npmjs.org/package/funcrithmetic)
+[![Build Status](https://travis-ci.org/christianhg/funcrithmetic.svg?branch=master)](https://travis-ci.org/christianhg/funcrithmetic)
 [![Dependencies](https://david-dm.org/christianhg/funcrithmetic.svg)](https://david-dm.org/christianhg/funcrithmetic)
 [![devDependencies](https://david-dm.org/christianhg/funcrithmetic/dev-status.svg)](https://david-dm.org/christianhg/funcrithmetic?type=dev)
 
