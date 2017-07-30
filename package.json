@@ -2,6 +2,9 @@
   "name": "funcrithmetic",
   "main": "index.js",
   "version": "0.0.0",
+  "files": [
+    "index.js"
+  ],
   "author": "Christian Hamburger Grøngaard <christianhg@gmail.com> (https://github.com/christianhg)",
   "license": "MIT",
   "keywords": [
