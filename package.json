@@ -1,0 +1,26 @@
+{
+  "name": "funcrithmetic",
+  "main": "index.js",
+  "version": "0.0.0",
+  "author": "Christian Hamburger Grøngaard <christianhg@gmail.com> (https://github.com/christianhg)",
+  "license": "MIT",
+  "keywords": [
+    "arithmetic",
+    "applicative",
+    "apply",
+    "chain",
+    "fp",
+    "functional programming",
+    "functor",
+    "monad"
+  ],
+  "scripts": {
+    "dev": "ava --watch tests.js",
+    "prettier": "prettier --no-semi --single-quote --write *.js",
+    "test": "prettier --no-semi --single-quote --list-different *.js && ava tests.js"
+  },
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "prettier": "^1.5.3"
+  }
+}
