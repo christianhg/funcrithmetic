@@ -6,6 +6,7 @@
     "index.js"
   ],
   "author": "Christian Hamburger Grøngaard <christianhg@gmail.com> (https://github.com/christianhg)",
+  "repository": "christianhg/funcrithmetic",
   "license": "MIT",
   "keywords": [
     "arithmetic",
