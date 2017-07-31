@@ -1,5 +1,6 @@
 {
   "name": "funcrithmetic",
+  "description": "Monadic wrapper for doing arithmetic operations in JavaScript",
   "main": "index.js",
   "version": "0.0.2",
   "files": [
